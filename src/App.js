@@ -62,7 +62,9 @@ export default () =>  {
         ))}
       </section>
       <footer>
-        Feito com <span role="img" aria-label='coração'>❤️ </span> <a href='www.github.com/daniel-lins'>Daniel Lins </a> <br/>
+        Feito com <span role="img" aria-label='coração'>❤️ </span>
+         Daniel Lins <br/>
+         
       Direitos de imagem para Netflix <br/>
       E dados pego da API do THe Movie DB
        </footer>
